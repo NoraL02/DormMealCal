@@ -14,7 +14,7 @@ import javafx.event.ActionEvent;
  * TheJavaFX class DormMealCal calculate the total charges of dorm cost and meal plan cost.
  *
  * Ngoc Lai
- * 18.11.2023
+ * 
  */
 public class DormMealCalculator extends Application 
 {
